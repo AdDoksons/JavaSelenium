@@ -1,7 +1,5 @@
 https://github.com/AdDoksons/JavaSelenium.git
 
-
-
 …or create a new repository on the command line
 echo "# JavaSelenium" >> README.md
 git init
